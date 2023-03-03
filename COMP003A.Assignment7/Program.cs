@@ -44,7 +44,7 @@ namespace COMP003A.Assignment7
                 {
                     break;
                 }
-            } 
+            }  
             while (true); 
             
             SectionSeparator("List - Traversal"); 
