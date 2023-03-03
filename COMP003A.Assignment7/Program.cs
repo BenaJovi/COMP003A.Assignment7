@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+/*
+ * Author: Jovani Benavides
+ * Course: COMP-003A
+ * Purpose: Uses arrays and list to execute code. 
+ */
+using System;
 
 namespace COMP003A.Assignment7
 {
